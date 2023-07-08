@@ -102,7 +102,7 @@
     "react-dom": "^16.8.4",
     "rimraf": "^3.0.2",
     "serve": "^11.3.2",
-    "stylelint": "^13.2.1",
+    "stylelint": "^15.10.1",
     "typescript": "^3.9.5"
   },
   "peerDependencies": {
